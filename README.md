@@ -1,2 +1,2 @@
 # course-work
-Course work from my BS in CS at American University
+A few course work items from my BS in CS at American University
